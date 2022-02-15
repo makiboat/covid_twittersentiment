@@ -1,4 +1,8 @@
 # covid_twittersentiment
 sentiment analysis on covid vaccine
 
-Crawled twitter data using snscrape package
+3 ipynb files
+- crawing data
+- data cleaning
+- sentiment analysis
+
